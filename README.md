@@ -14,4 +14,4 @@ chatReplay is queued in batches by "chathighlightqueue.py", once the desired cli
 
 In this latest version I chose to omit the usernames of the chatters due to 40%+ of my audience viewing on 5 inch screens.
 
-# The chat animation is synced with the origin livestream, to display the chat's interesting reaction to the stream. http://j.mp/pogchamp
+# The chat animation is synced with the origin livestream, to display the chat's interesting reaction to the stream. https://www.youtube.com/watch?v=ZmgLTj7tLKE
